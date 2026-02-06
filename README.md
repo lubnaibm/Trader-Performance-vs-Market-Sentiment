@@ -1,6 +1,7 @@
 # Trader-Performance-vs-Market-Sentiment
 Trader Performance vs Market Sentiment Analysis
 (Hyperliquid – Fear & Greed Analysis)
+
 🔹 Methodology:
 
 Data Sources:
